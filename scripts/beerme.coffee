@@ -21,7 +21,6 @@ beers = [
   "http://media.treehugger.com/assets/images/2011/10/save-the-beers.jpg",
   "http://poemsforkush.files.wordpress.com/2012/04/beer.jpg",
   "http://www.wirtzbeveragegroup.com/wirtzbeveragenevada/wp-content/uploads/2010/06/Beer.jpg",
-  "http://www.walyou.com/blog/wp-content/uploads/2010/06/giant-beer-glass-fathers-day-beer-gadgets-2010.jpg",
   "http://images.free-extras.com/pics/f/free_beer-911.jpg",
   "http://images.seroundtable.com/android-beer-dispenser-1335181876.jpg",
   "http://www.mediabistro.com/fishbowlDC/files/original/beer-will-change-the-world.jpg",
